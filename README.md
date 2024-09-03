@@ -1,5 +1,6 @@
 ==================================
-**Implementing Two-Factor Authentication (2FA): Project Overview:
+
+Implementing Two-Factor Authentication (2FA): Project Overview:
 
 ----------------------------------
 
