@@ -5,8 +5,8 @@ app = Flask(__name__)
 app.secret_key = 'th3 supra secret passwd of an int3rn'
 
 users = {
-    'user@example.com': {
-        'password': 'found the password',
+    'hitorisaie@gmail.com': {
+        'password': 'yourentry',
         'otp_secret': pyotp.random_base32()
     }
 }
